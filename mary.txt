@@ -1,0 +1,5 @@
+'mary runs quickly. mary is tall. mary is slim. mary is blonde.
+mary gives john a dog. mary gives tomy a book. mary loves books.'.
+
+
+
